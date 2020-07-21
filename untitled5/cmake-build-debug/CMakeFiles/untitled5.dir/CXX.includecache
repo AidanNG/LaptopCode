@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aidan/CLionProjects/untitled5/assignment5.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+vector
+-
+word.h
+/home/aidan/CLionProjects/untitled5/word.h
+binarySearchTree.h
+/home/aidan/CLionProjects/untitled5/binarySearchTree.h
+
+/home/aidan/CLionProjects/untitled5/binarySearchTree.h
+string
+-
+iostream
+-
+
+/home/aidan/CLionProjects/untitled5/word.h
+string
+-
+iostream
+-
+vector
+-
+cctype
+-
+algorithm
+-
+

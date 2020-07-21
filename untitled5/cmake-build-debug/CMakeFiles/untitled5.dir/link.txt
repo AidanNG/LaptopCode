@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled5.dir/word.cpp.o CMakeFiles/untitled5.dir/assignment5.cpp.o  -o untitled5 

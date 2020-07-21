@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled9.dir/linkedList.cpp.o CMakeFiles/untitled9.dir/tree234.cpp.o CMakeFiles/untitled9.dir/stack.cpp.o  -o untitled9 

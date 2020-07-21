@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aidan/CLionProjects/untitled1/phoneBook.cpp
+string
+-
+phoneBookEntry.h
+/home/aidan/CLionProjects/untitled1/phoneBookEntry.h
+phoneBook.h
+/home/aidan/CLionProjects/untitled1/phoneBook.h
+vector
+-
+iostream
+-
+iomanip
+-
+ostream
+-
+
+/home/aidan/CLionProjects/untitled1/phoneBook.h
+string
+-
+phoneBookEntry.h
+/home/aidan/CLionProjects/untitled1/phoneBookEntry.h
+
+/home/aidan/CLionProjects/untitled1/phoneBookEntry.h
+string
+-
+vector
+-
+

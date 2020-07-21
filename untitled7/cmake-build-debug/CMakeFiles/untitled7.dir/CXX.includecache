@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aidan/CLionProjects/untitled7/CargoShip.h
+iostream
+-
+string
+-
+Ship.h
+/home/aidan/CLionProjects/untitled7/Ship.h
+
+/home/aidan/CLionProjects/untitled7/CruiseShip.h
+iostream
+-
+string
+-
+Ship.h
+/home/aidan/CLionProjects/untitled7/Ship.h
+
+/home/aidan/CLionProjects/untitled7/Ship.h
+iostream
+-
+string
+-
+
+/home/aidan/CLionProjects/untitled7/main.cpp
+iostream
+-
+string
+-
+Ship.h
+/home/aidan/CLionProjects/untitled7/Ship.h
+CruiseShip.h
+/home/aidan/CLionProjects/untitled7/CruiseShip.h
+CargoShip.h
+/home/aidan/CLionProjects/untitled7/CargoShip.h
+
